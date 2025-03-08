@@ -40,8 +40,8 @@ I'm a Data Analyst with a passion for transforming raw data into meaningful insi
 
 ## 📫 **Let's Connect**
 🌍 **Portfolio Website:** [IniBassey.github.io/IniBassey-Portfolio](https://IniBassey.github.io/IniBassey-Portfolio)  
-🔗 **LinkedIn:** [linkedin.com/in/ini-bassey-247social/](https://linkedin.com/in/ini-bassey)  
-📩 **Email:** [inibillion1@gmail.com](.com)  
+🔗 **LinkedIn:** [linkedin.com/in/ini-bassey-247social/](https://www.linkedin.com/in/ini-bassey-247social/)  
+📩 **Email:** [inibillion1@gmail.com]https://mail.google.com/mail/u/0/#inbox
 
 ---
 
