@@ -10,7 +10,7 @@ I'm a Data Analyst with a passion for transforming raw data into meaningful insi
 ---
 
 ## 📌 **Featured Projects**
-🔹 **[Maji Ndogo Water Project](https://github.com/IniBassey/Maji-Ndogo-Water-Project)**  
+🔹 **[Maji Ndogo Water Project](https://github.com/Inibillion/Maji-Ndogo-Water-project)**  
 *Analyzing water consumption trends and supply shortages using SQL and Power BI.*  
 
 🔹 **[Olympic History Data Analysis](https://github.com/IniBassey/Olympic-History-Analysis)**  
