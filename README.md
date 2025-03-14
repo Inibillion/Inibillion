@@ -13,7 +13,7 @@ I'm a Data Analyst with a passion for transforming raw data into meaningful insi
 🔹 **[Maji Ndogo Water Project](https://github.com/Inibillion/Maji-Ndogo-Water-project)**  
 *Analyzing water consumption trends and supply shortages using SQL and Power BI.*  
 
-🔹 **[Olympic History Data Analysis](https://github.com/IniBassey/Olympic-History-Analysis)**  
+🔹 **[Olympic History Data Analysis](https://github.com/Inibillion/Olympic-History)**  
 *Exploring Olympic medal trends over the years using historical datasets.*  
 
 🔹 **[School Performance Analysis](https://github.com/IniBassey/School-Data-Analysis)**  
