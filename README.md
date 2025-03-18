@@ -16,7 +16,7 @@ I'm a Data Analyst with a passion for transforming raw data into meaningful insi
 🔹 **[Olympic History Data Analysis](https://github.com/Inibillion/Olympic-History)**  
 *Exploring Olympic medal trends over the years using historical datasets.*  
 
-🔹 **[School Performance Analysis](https://github.com/IniBassey/School-Data-Analysis)**  
+🔹 **[School Performance Analysis](https://github.com/Inibillion/Recbini-Academy-/blob/main/README.md)**  
 *Evaluating student academic performance using key educational metrics.*  
 
 🔹 **[United Nations SDG Insights](https://github.com/IniBassey/UN-SDG-Analysis)**  
